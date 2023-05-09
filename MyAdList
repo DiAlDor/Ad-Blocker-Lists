@@ -3,12 +3,12 @@
 # Date: 09 May 2023 
 # ===============================================================
 # Custom host records are listed here.
-0.0.0.0 z.moatads.com
-0.0.0.0 js-agent.newrelic.com
-0.0.0.0 collector.github.com
-0.0.0.0 cdn.confiant-integrations.net
-0.0.0.0 at.cbsi.com
-0.0.0.0 securepubads.g.doubleclick.net
+z.moatads.com
+js-agent.newrelic.com
+collector.github.com
+cdn.confiant-integrations.net
+at.cbsi.com
+securepubads.g.doubleclick.net
 
 
 # End of custom host records.
