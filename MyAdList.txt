@@ -9,6 +9,12 @@ collector.github.com
 cdn.confiant-integrations.net
 at.cbsi.com
 securepubads.g.doubleclick.net
+play.google.com
+www.youtube-nocookie.com
+securepubads.g.doubleclick.net
+strangeclocks.com
+
+
 
 
 # End of custom host records.
